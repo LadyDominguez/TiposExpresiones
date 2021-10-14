@@ -22,7 +22,6 @@ public class NewMain {
         boolean continuar=true;
         int opcion;
         while(continuar){
-            System.out.println("");
             System.out.println("1.aritmetica");
             System.out.println("2.logica");
             System.out.println("3.caracteres");
